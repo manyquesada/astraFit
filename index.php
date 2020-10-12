@@ -21,37 +21,38 @@
                         </svg>
                       </button>
                 </div>
-                <div class="sidenav-trigger right">
+                <div class="sidenav-trigger left">
                     <!--Aqui iria el icono del carrito xd-->
                 </div>
                 <!--ESta cerrado por el hide-->
                 <aside class="show">
                     <div>
                         <ul>
-                            <li><a href="">Entrenamiento</a></li>
-                            <li><a href="">Nutrcición</a></li>
-                            <li><a href="">Nosotros</a></li>
+                            <li><a href="entrenamiento.html">Entrenamiento</a></li>
+                            <li><a href="calculadora.html">Nutrición</a></li>
+                            <li><a href="motivacion.html">Motivación</a></li>
                             <li><a href="">Contacto</a></li>
+                            <li><a href="calculadora.html">Calculadora</a></li>
                         </ul>
                     </div>
                     <div>
                     </div>
                 </aside>
                 <ul class="hide-on-small-and-down">
-                    <li><a href="">Entrenamiento</a></li>
-                    <li><a href="">Nutrcición</a></li>
-                    <li><a href="">Nosotros</a></li>
+                    <li><a href="entrenamiento.html">Entrenamiento</a></li>
+                    <li><a href="calculadora.html">Nutrición</a></li>
+                    <li><a href="motivacion.html">Motivación</a></li>
                     <li><a href="">Contacto</a></li>
                 </ul>
             </nav>
         </header>
         <main>
-            <section class="background">
+            <section class="background background-image-1">
                 <div class="background-filter"></div>
                 <div>
                     <h1>ASTRAFIT</h1>
                     <H2>LA SALUD NO LO ES TODO, PERO SIN ELLA TODO LO DEMÁS ES NADA</H2>
-                    <a href="entrenamiento.html">¡EMPIEZA YA!</a>
+                    <a href="registro.php">¡EMPIEZA YA!</a>
                 </div>
             </section>
             <section class="divider hide-on-small-and-down">
@@ -60,29 +61,29 @@
                 <div class="cards">
                     <div class="card">
                         <div class="card-image">
-                            <img src="src/img/background-main-screen.jpg" alt="">
+                            <img src="src/img/NUTRICION.jpg" alt="">
                         </div>
-                        <div class="card-content">
-                            <h2>Hola mundo</h2>
-                            <p>Aqui va información acerca de este apartado</p>
+                        <div class="card-content" style="text-align:center;"">
+                            <h2>NUTRICIÓN</h2>
+                            <p>Dietas totalmente libres de escoger a gusto propio.</p>
                         </div>
                     </div>
                     <div class="card text-align-end">
                         <div class="card-image">
-                            <img src="src/img/background2.jpg" alt="">
+                            <img src="src/img/ENTRENAMIENTO.jpg" alt="">
                         </div>
-                        <div class="card-content">
-                            <h2>Hola mundo</h2>
-                            <p>Aqui va información acerca de este apartado</p>
+                        <div class="card-content" style="text-align:center;">
+                            <h2>ENTRENAMIENTO</h2>
+                            <p>Ejercicios y entrenamientos diferentes para cualquier músculo del cuerpo.</p>
                         </div>
                     </div>
                     <div class="card text-align-center">
                         <div class="card-image">
-                            <img src="src/img/background2.jpg" alt="">
+                            <img src="src/img/MOTIVACION.jpg" alt="">
                         </div>
                         <div class="card-content">
-                            <h2>Hola mundo</h2>
-                            <p>Aqui va información acerca de este apartado</p>
+                            <h2>MOTIVACIÓN</h2>
+                            <p>Consejos y motivaciones para cualquier tipo de público.</p>
                         </div>
                     </div>
                   </div>
@@ -93,7 +94,7 @@
                 </div>
                 <div>
                     <h2>ENTRENA CUANDO Y DONDE QUIERAS CON ASTRAFIT</h2>
-                    <a href="">¡EMPIEZA YA!</a>
+                    <a href="registro.php">¡EMPIEZA YA!</a>
                 </div>
                 <div>
                     <img src="src/img/laptop-template2.png" alt="">
@@ -106,7 +107,7 @@
                         <li><a href="">ENTRENAMIENTO</a></li>
                         <li><a href="">NUTRICIÓN</a> </li>
                         <li><a href="">SUPLEMENTOS</a></li>
-                        <li><a href="">CALCULADORAS</a></li>
+                        <li><a href="calculadora.html">CALCULADORAS</a></li>
                     </ul>
                 </div>
                 <div>
